@@ -19,7 +19,19 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 
-
+```python 
+#Program to swap two values.
+#Developed by: Ashwin Kumar.S
+#RegisterNumber:22000974
+a=int(input())
+b=int(input())
+temp=a
+A=b
+B=temp
+print("Swapped values are:",b,a)
+```
+##OUTPUT
+![output](op1.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
